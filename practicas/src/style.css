@@ -1,0 +1,40 @@
+img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li{
+    font-size: 20px;
+    color: darkgoldenrod;
+    font-weight: bold;
+}
+#jefe{
+    font-size: 50px;
+    color: brown;
+}
+.subtitulo{
+    color: darkgreen;
+    font-size: 35px;
+    font-style: italic;
+    font-weight: bold;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: antiquewhite;
+}
+
+td
+{
+    justify-content: center;
+}
